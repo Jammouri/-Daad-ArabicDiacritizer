@@ -10,6 +10,7 @@ This repository contains our work on implementing a Mobile Application as our Gr
 - [Results](#results)
 - [Unsuccessful Trials](#unsuccessful-trials)
 - [Flutter](#Flutter)
+- [API](#API)
 
 ## Installation
 
