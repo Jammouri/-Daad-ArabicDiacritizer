@@ -9,7 +9,7 @@ This repository contains our work on implementing a Mobile Application as our Gr
 - [Code](#code)
 - [Results](#results)
 - [Unsuccessful Trials](#unsuccessful-trials)
-- [License](#license)
+- [Flutter](#Flutter)
 
 ## Installation
 
@@ -39,3 +39,12 @@ Our 'results' directory contains three sub-directories:
 ## Unsuccessful Trials
 
 We have included our unsuccessful trials within our repository so they can be utilized in future works and improvements.
+
+## Flutter
+
+We have uploaded the implementation of our Flutter Application. You can find it in the FLutterApp Directory.
+
+## API
+
+We used FastAPI as our local API to integrate the model and the application. 
+
