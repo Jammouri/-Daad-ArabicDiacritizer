@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977536320967",
+    "project_id": "arabic-diacatarization",
+    "storage_bucket": "arabic-diacatarization.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977536320967:android:300ca366995a0035f645e2",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMAGgcRILAAc68EiW7yWt14yRQGyyR894"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
